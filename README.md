@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Mammadkhan
 #### I am Front End Developer
 
-#Languages and tools:
-!\[React\]([path or URL to image](https://duckduckgo.com](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))
+Skills: REACT / ANGULAR / JS / TS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio
